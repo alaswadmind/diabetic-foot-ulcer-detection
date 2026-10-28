@@ -53,3 +53,6 @@ flutter run
 4. يعرض التطبيق النتيجة والتنبيه المناسبين. لا يعرض التطبيق نسب الثقة للمستخدم.
 
 لا يحتفظ التطبيق أو الخادم بالصورة بعد اكتمال طلب التحليل وفق التنفيذ الحالي. ينبغي مراجعة الخصوصية والأمان وإعدادات الخادم قبل إتاحة الخدمة للعامة.
+
+##بfacebock
+https://m.facebook.com/story.php?story_fbid=pfbid0hrxPv3437Ktk47Jbneh3nPeeXzv7WUfBJgEJaZK4Uh8ham9shkF45dGMHhmY4NGLl&id=61595337822984
